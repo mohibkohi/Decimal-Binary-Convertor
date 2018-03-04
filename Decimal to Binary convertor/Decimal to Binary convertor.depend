@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520124807 source:c:\users\mohib\onedrive\documents\decimal to binary convertor\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
